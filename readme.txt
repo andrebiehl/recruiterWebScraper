@@ -1,0 +1,1 @@
+Enter run.py and go to the localhost link
